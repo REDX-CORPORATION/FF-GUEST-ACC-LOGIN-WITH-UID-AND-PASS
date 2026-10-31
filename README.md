@@ -1,5 +1,7 @@
 # FF Guest Account Login (UID & Password)
 
+## If you want to buy any ff UID check the list: https://ff-uid.netlify.app/
+
 A professional Windows-based tool developed by **REDX CORPORATION** that allows direct login into **Free Fire guest accounts** using **UID and Password** inside the HD-Player (BlueStacks/MSI) emulator.
 
 <p align="center">
